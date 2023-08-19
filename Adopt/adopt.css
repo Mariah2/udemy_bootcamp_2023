@@ -1,0 +1,163 @@
+#title {
+    background-color: cadetblue;
+    width: 100%;
+}
+
+#title-image {
+    width: 400px;
+    height: auto;
+    float: right;
+}
+
+#motto {
+    font-family: 'Montserrat';
+    font-size: 5rem;
+    color: white;
+    font-weight: bold;
+}
+
+#logo{
+    font-weight: bold;
+    font-family: 'Ubuntu';
+    font-size: 2rem;
+}
+
+#features {
+    margin: 10% 15%;
+}
+
+#testimonials{
+    text-align: center;
+    background-color: rgb(98, 148, 166);
+    color: white;
+}
+
+#press{
+    background-color: rgb(98, 148, 166);
+    text-align: center;
+    padding-bottom: 3%;
+
+}
+
+#pricing{
+    margin: 5% 15%;
+}
+
+#cta{
+    background-color:  rgb(135, 182, 199);
+    text-align: center;
+    color: white;
+    padding: 5% 15%;
+}
+
+#cta div{
+    font-family: 'Montserrat';
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+#footer{
+    padding: 5% 15%;
+    text-align: center;
+}
+
+#footer p{
+    color: gray;
+    font-family: 'Ubuntu';
+}
+
+#footer i{
+    font-size: 2rem;
+    margin: 2%;
+}
+
+.nav-link{
+    font-family: 'Montserrat';
+    font-size: 1.5rem;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+.title-button{
+    margin: 5% 3% 5% 0;
+}
+
+.features-icon {
+    color: cadetblue;
+    margin: 5%;
+}
+
+.features-icon:hover{
+    color: rgb(98, 148, 166);
+}
+
+.features-info{
+    text-align: center;
+    font-family: 'Montserrat';
+    color: rgb(110, 110, 110);
+}
+
+.features-info h4{
+    font-weight:900;
+    color: black;
+}
+
+.testimonial-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+.title-pricing{
+    text-align: center;
+    font-family: 'Montserrat';
+    margin-bottom: 10%;
+}
+
+.title-pricing h2{
+    font-weight: 900;
+}
+
+.title-pricing p {
+    font-size: 1.5rem;
+    color: rgb(110, 110, 110);;
+}
+
+.card img{
+    width: 19rem;
+    height: 9rem;
+}
+
+.card{
+    margin: auto;
+}
+
+.card button{
+    background-color: rgb(98, 148, 166);
+}
+
+.card button:hover{
+    background-color: rgb(135, 182, 199);
+}
+
+nav {
+    margin-bottom: 30px;
+    width: 100%;
+}
+
+h2{
+    font-family: 'Montserrat';
+    font-weight: 800;
+    font-size: 3rem;
+}
